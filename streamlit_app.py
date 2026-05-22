@@ -140,6 +140,18 @@ with st.sidebar:
 """
     )
     st.divider()
+    st.markdown("### Mirror sites")
+    st.markdown(
+        """
+- [GitLab Pages (canonical)](https://calcfi-open-data-4a2bc1.gitlab.io/)
+- [GitHub Pages](https://jeresalmisto.github.io/calcfi-open-data/)
+- [Cloudflare Pages](https://calcfi-open-data.pages.dev/)
+- [Codeberg Pages (EU)](https://jerehere.codeberg.page/calcfi-open-data/)
+- [Netlify](https://calcfi-open-data.netlify.app/)
+- [Surge.sh](https://calcfi-open-data.surge.sh/)
+"""
+    )
+    st.divider()
     st.markdown("### Calculate your payment")
     st.markdown(
         "Use the free [**CalcFi mortgage payment calculator**](https://calcfi.app/calculators/mortgage-payment) — "
