@@ -4,6 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Dataset DOI](https://img.shields.io/badge/Dataset%20DOI-10.6084%2Fm9.figshare.32332290-blue)](https://doi.org/10.6084/m9.figshare.32332290)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20373921.svg)](https://doi.org/10.5281/zenodo.20373921)
+
 
 **Free, interactive Streamlit dashboard for the US 30-year fixed mortgage rate** — live data from the Freddie Mac Primary Mortgage Market Survey (PMMS) via FRED, plus 50-year history, 15-year fixed comparison, and 10-year US Treasury yield overlay for spread analysis.
 
